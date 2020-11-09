@@ -1,0 +1,46 @@
+{
+  "staffid": "1234",
+  "staffname": "Rick",
+  "type": "all",
+  "stafflastname": "Brunnet",
+  "table": "1A",
+  "datetime": "",
+  "shift": "1",
+  "servicecharge": "",
+  "tax": "",
+  "total": "",
+  "orders": [
+    {
+      "itemid": "1",
+      "itemname": "coke",
+      "itemcharacter": "cold",
+      "quantity": "1",
+      "uom": "oz",
+      "cost": ""
+    },
+    {
+      "itemid": "2",
+      "itemname": "coffee",
+      "itemcharacter": "hot",
+      "quantity": "1",
+      "uom": "oz",
+      "cost": ""
+    },
+    {
+      "itemid": "3",
+      "itemname": "cheesesandwitch",
+      "itemcharacter": "cold",
+      "quantity": "100",
+      "uom": "weight",
+      "cost": ""
+    },
+    {
+      "itemid": "4",
+      "itemname": "steaksandwitch",
+      "itemcharacter": "hot",
+      "quantity": "250",
+      "uom": "weight",
+      "cost": ""
+    }
+  ]
+}
